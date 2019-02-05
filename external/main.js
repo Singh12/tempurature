@@ -1,0 +1,1 @@
+export let key = 101010;
